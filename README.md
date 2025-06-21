@@ -2,7 +2,7 @@ First of all, if you want to edit and publish this file in any way, feel free to
 
 How this program works:
 It's a simple script that automatically presses the correct keys to refresh and buy auctions. The pixel thing is there because to know if an auction is active, it has to check the color of that specific pixel. If the color's white, it launches the buy process.
-To make sure it works correctly, always line up your cursor in the middle of any active auction where there's no text whatsoever and only then press P.
+To make sure it works correctly, always line up your cursor in the middle of any active auction where there's no text whatsoever and only then press P. Even though the script itself is around 12KB, the file size is 45MB because I'm using pyinstaller --onefile which packs a whole lot of stuff inside the exe.
 
 Use tutorial:
 1. Lock your fps at a stable value to avoid any issues, you don't have to turn off fulscreen
