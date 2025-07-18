@@ -16,7 +16,7 @@ Use tutorial:
 5. **Make sure the focused window in the auction house is the search for auctions one** and then press **S** and just let it run  
 6. If you toggled infinite sniping, the script will continue to snipe cars after buying the first one, otherwise it would go back to the auction house and stop  
 
-**Custom sniping**
+**Custom sniping**  
 This tool also has an option for custom sniping where you can directly change all the timings as well as pixel position to really fine tune it for your pc. I suppose that with this option, you should be able to use this bot with any screen res as well as ratio.  
 The app also displays default values (taken from normal sniping) in case you want to keep some timings as they were (highly recommended)
 
