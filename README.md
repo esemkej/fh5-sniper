@@ -15,8 +15,12 @@ Use tutorial:
 4. You can toggle infinite sniping by pressing the designated button  
 5. **Make sure the focused window in the auction house is the search for auctions one** and then press **S** and just let it run  
 6. If you toggled infinite sniping, the script will continue to snipe cars after buying the first one, otherwise it would go back to the auction house and stop  
-  
+
+**Custom sniping**
+This tool also has an option for custom sniping where you can directly change all the timings as well as pixel position to really fine tune it for your pc. I suppose that with this option, you should be able to use this bot with any screen res as well as ratio.  
+The app also displays default values (taken from normal sniping) in case you want to keep some timings as they were (highly recommended)
+
 If there are any issues, reread this readme first and if nothing works, feel free to leave an issue message, I'll try to look at it asap.
 
 **What to expect with new releases:**  
-Probably something like a "handshake" feature where if your friend wants to sell you a car, the two apps will connect and the one's selling the car will send a signal right when the auction is listed, so that your app can insta snipe it. But no promises.
+Fully cmd operated version without any UI whatsoever in case the UI version causes bugs.
